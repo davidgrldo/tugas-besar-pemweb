@@ -1,0 +1,7 @@
+David Geraldo
+1. Buat database dengan nama 'penjualan'.
+2. Import file penjualan.sql pada database yang telah dibuat.
+3. Buka Terminal dan arahkan ke folder penjualan.
+   untuk menjalankan codeigniter dapat dilakukan dengan 
+   menjalankan 'php spark serve' pada terminal.
+4. Buka http://localhost:8080 pada browser anda.
