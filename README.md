@@ -1,4 +1,4 @@
-# Project Sistem Informasi Penjualan Menggunakan Codeigniter 4
+# Tugas Besar 2 - Membuat Sistem Informasi Penjualan Menggunakan Codeigniter 4
 
 Ikuti langkah berikut ini:
 1. Clone atau download file
